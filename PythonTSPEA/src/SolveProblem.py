@@ -1,11 +1,3 @@
-'''
-Created on 26 May 2020
-
-@author: Andre
-'''
-# -*- coding: utf-8 -*-
-
-
 import random, math
 import numpy as np
 import matplotlib.pyplot as plt
